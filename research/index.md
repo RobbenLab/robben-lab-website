@@ -19,7 +19,7 @@ Publications by members of the Robben Lab focus on new omics technologies includ
 
 ## In Submission
 
-{% include citation.html type="preprint" style="rich" %}
+{% include list.html data="citations" component="citation" filters="type: preprint" style="rich" %}
 
 ## Journal Articles
 

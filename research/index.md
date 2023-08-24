@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Publications by members of the Robben Lab focus on new omics technologies including single cell RNA-seq and spatial transcriptomics in different aspects of animal and human biology research, including cancer immunology and autoimmune disease. Publications are a mix of preprint/in-submission, 
 
 {% include section.html %}
 
@@ -18,10 +17,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## All
+## In Submission
+
+## Journal Articles
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+## Conference papers
+
+

@@ -1,9 +1,7 @@
 # site properties and page defaults
 title: The Animal Computational Cancer Immunology Lab
 subtitle: 
-description: The goal of the Robben lab is to develop the next generation of multi-omic sequencing technologies to investigate immune cell dysfunction in cancer and autoimmune disease. 
-The future of high-throughput sequencing combines transcriptomics, proteomics, genomics and imaging into techniques like single cell RNA-seq and spatial transcriptomics. 
-For the analysis of this data we need new computational methods utilizing machine learning algorithms that can identify patterns of cell interactions and differentiation. 
+description: The goal of the Robben lab is to develop the next generation of multi-omic sequencing technologies to investigate immune cell dysfunction in cancer and autoimmune disease. The future of high-throughput sequencing combines transcriptomics, proteomics, genomics and imaging into techniques like single cell RNA-seq and spatial transcriptomics. For the analysis of this data we need new computational methods utilizing machine learning algorithms that can identify patterns of cell interactions and differentiation. 
 header: images/background.jpg
 footer: images/background.jpg
 

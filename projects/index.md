@@ -24,5 +24,16 @@ nav:
 
 scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interesting indicators of T-cell dysregulation associated with development of the disease. This included suppression of cytotoxic CD8+ T-cells on infiltration into the pancreas associated with specific TCR clones, and the remarkeable increased rate of Double Negative (DN) T-cells among circulating and infiltrating T lymphocytes. The objective or our research is two fold 1. Develop molecular and computational tools to identify epitopes for suppressed and unsuppressed cytotoxic T-cells and 2. Determine the mechanism of action for the development of circulating DN T-cells and their effect on disease progression.  
 
+{% endcapture %}
+
 {% include section.html %}
 
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}

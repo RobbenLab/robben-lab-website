@@ -1,9 +1,11 @@
 ---
 ---
 
-# RobbenLab's Website
+# I-LAMB (Illinois Laboratory for Animal Machine-learning and Bioinformatics)
 
-An engaging 1-3 sentence description of your lab.
+The goal of the Robben lab is to develop the next generation of multi-omic sequencing technologies to investigate immune cell dysfunction in cancer and autoimmune disease. The future of high-throughput sequencing combines transcriptomics, proteomics, genomics and imaging into techniques like single cell RNA-seq and spatial transcriptomics. For the analysis of this data we need new computational methods utilizing machine learning algorithms that can identify patterns of cell interactions and differentiation. 
+
+Currently looking for highly self-motivated graduate and undergraduate students who want interdisciplinary research experience! See the "Join Us" tab for more details.
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Recently published articles and conference papers by members of the Robben Lab.
 
 {%
   include button.html
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Active projects in the pipeline and links to computational packages developed in the lab.
 
 {%
   include button.html
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the highly talented individuals that make up the best team for doing interdisciplinary research.
 
 {%
   include button.html

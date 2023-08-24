@@ -69,6 +69,39 @@
   orcid: 0000-0002-5322-9947
   plugin: orcid.py
   file: orcid.yaml
+- id: https://doi.org/10.1101/2023.07.21.550036
+  title: Single-cell RNA-seq reveals TCR clonal expansion and a high frequency of
+    transcriptionally distinct double-negative T cells in NOD mice
+  authors:
+  - Md Zohorul Islam
+  - Sam Zimmerman
+  - Jon Weidanz
+  - Jose Ordovas-Montanes
+  - Michael Robben
+  - Jacob M. Luber
+  - Aleksandar D. Kostic
+  publisher: bioRxiv
+  date: '2023-07-25'
+  link: https://www.biorxiv.org/content/10.1101/2023.07.21.550036v1
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1101/2023.07.18.549532
+  title: scRNA-seq reveals novel genetic pathways and sex chromosome regulation in
+    Tribolium spermatogenesis
+  authors:
+  - Michael Robben
+  - Balan Ramesh
+  - Shana Pau
+  - Demetra Meletis
+  - Jacob Luber
+  - Jeffery Demuth
+  publisher: bioRxiv
+  date: '2023-07-18'
+  link: https://www.biorxiv.org/content/10.1101/2023.07.18.549532v1
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -100,30 +133,75 @@
   repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: arXiv:2205.10373
+  title: A SSIM Guided cGAN Architecture For Clinically Driven Generative Image Synthesis
+    of Multiplexed Spatial Proteomics Channels
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Jillur Rahman Saurav
+  - Mohammad Sadegh Nasr
+  - Paul Koomey
+  - Michael Robben
+  - Manfred Huber
+  - Jon Weidanz
+  - "Br\xEDd Ryan"
+  - Eytan Ruppin
+  - Peng Jiang
+  - Jacob M. Luber
+  publisher: arXiv
+  date: '2023-06-13'
+  link: https://arxiv.org/abs/2205.10373
+  type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: arXiv:2306.06780
+  title: Multimodal Pathology Image Search Between H&E Slides and Multiplexed Immunofluorescent
+    Images
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Amir Hajighasemi
+  - MD Jillur Rahman Saurav
+  - Mohammad S Nasr
+  - Jai Prakash Veerla
+  - Aarti Darji
+  - Parisa Boodaghi Malidarreh
+  - Michael Robben
+  - Helen H Shang
+  - Jacob M Luber
+  publisher: arXiv
+  date: '2023-06-13'
+  link: https://arxiv.org/abs/2306.06780
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2303.13332
+  title: Clinically Relevant Latent Space Embedding of Cancer Histopathology Slides
+    through Variational Autoencoder Based Image Compression
+  authors:
+  - Mohammad Sadegh Nasr
+  - Amir Hajighasemi
+  - Paul Koomey
+  - Parisa Boodaghi Malidarreh
+  - Michael Robben
+  - Jillur Rahman Saurav
+  - Helen H. Shang
+  - Manfred Huber
+  - Jacob M. Luber
+  publisher: arXiv
+  date: '2023-03-24'
+  link: https://arxiv.org/abs/2303.13332
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2307.00635
+  title: Analyzing Lack of Concordance Between the Proteome and Transcriptome in Paired
+    scRNA-Seq and Multiplexed Spatial Proteomics
+  authors:
+  - Jai Prakash Veerla
+  - Jillur Rahman Saurav
+  - Michael Robben
+  - Jacob M Luber
+  publisher: arXiv
+  date: '2023-07-04'
+  link: https://arxiv.org/abs/2307.00635
+  type: paper
   plugin: sources.py
   file: sources.yaml

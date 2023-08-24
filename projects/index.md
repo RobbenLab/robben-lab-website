@@ -26,11 +26,11 @@ scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interest
 
 {% include section.html %}
 
-<!-- ## Featured
+## Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include section.html %} -->
+{% include section.html %}
 
 ## More
 

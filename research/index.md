@@ -13,7 +13,7 @@ Publications by members of the Robben Lab focus on new omics technologies includ
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
 {% include section.html %}
 
@@ -21,14 +21,14 @@ Publications by members of the Robben Lab focus on new omics technologies includ
 
 {% include list.html data="citations" component="citation" filters="type: preprint" style="rich" %}
 
-## Journal Articles
+## Journal Articles and Conference Papers
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" filters="type: !preprint" style="rich" %}
 
-## Conference papers
+<!-- ## Conference papers -->
 
 

@@ -7,20 +7,30 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Dysregulation of T-cells in inflammatory diabetes in NOD mice"
+  text=text
+%}
+
+{% capture text %}
+
+scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interesting indicators of T-cell dysregulation associated with development of the disease. This included suppression of cytotoxic CD8+ T-cells on infiltration into the pancreas associated with specific TCR clones, and the remarkeable increased rate of Double Negative (DN) T-cells among circulating and infiltrating T lymphocytes. The objective or our research is two fold 1. Develop molecular and computational tools to identify epitopes for suppressed and unsuppressed cytotoxic T-cells and 2. Determine the mechanism of action for the development of circulating DN T-cells and their effect on disease progression.  
+
+{% include section.html %}
+
+<!-- ## Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## More
 

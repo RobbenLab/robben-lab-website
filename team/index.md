@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The Illinois Laboratory for Animal Machine-learning and Bioinformatics is an interdisciplinary research laboratory that focuses on using computational science to solve problems for the research of immunology and genomics in animals. 
+The Illinois Laboratory for Animal Machine-learning and Bioinformatics is an interdisciplinary research laboratory that focuses on computational methods development in single cell and spatial technologies and the research of immunology and genomics in animals. 
 
 {% include section.html %}
 

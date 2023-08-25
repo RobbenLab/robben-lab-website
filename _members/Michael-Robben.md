@@ -2,12 +2,14 @@
 name: Michael Robben
 image: images/photo.jpg
 role: pi
-aliases:
-  - M. Robben
-  - M. W. Robben
+# aliases:
+#   - M. Robben
+#   - M. W. Robben
 links:
   home-page: https://ansc.illinois.edu/directory/robben
   orcid: 0000-0002-5322-9947
+  github: RobbenLab
+  email: robben@illinois.edu
 group: current
 ---
 

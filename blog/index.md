@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 5
-  tooltip: Lab News
+  tooltip: Lab updates
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab News

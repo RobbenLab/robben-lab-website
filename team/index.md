@@ -11,12 +11,12 @@ The Illinois Laboratory for Animal Machine-learning and Bioinformatics is an int
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters:"group: current" %}
+{% include list.html data="members" component="portrait" filters="group: ^current" %}
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 # Lab Alumni
 
-{% include list.html data="members" component="portrait" filters:"group: former" %}
+{% include list.html data="members" component="portrait" filters="group: former" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

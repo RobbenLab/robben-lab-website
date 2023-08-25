@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Publications by members of the Robben Lab focus on new omics technologies including single cell RNA-seq and spatial transcriptomics in different aspects of animal and human biology research, including cancer immunology and autoimmune disease. Publications are a mix of preprint/in-submission, 
+Publications by members of the Robben Lab focus on new omics technologies including single cell RNA-seq and spatial transcriptomics in different aspects of animal and human biology research, including cancer immunology and autoimmune disease. Publications are a mix of preprint/in-submission, journal articles and conference publications.
 
 {% include section.html %}
 

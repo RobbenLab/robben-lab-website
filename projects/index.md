@@ -94,7 +94,7 @@ Coming soon...
 
 {%
   include figure.html
-  image="images/Funding/ERML.PNG"
+  image="images/Funding/ACES.PNG"
 %}
 
 {% include section.html %}

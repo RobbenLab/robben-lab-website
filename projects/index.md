@@ -90,3 +90,11 @@ Coming soon...
 
 {% include section.html %}
 
+## Funding Sources
+
+{%
+  include figure.html
+  image="images/Funding/ERML.jpg"
+%}
+
+{% include section.html %}

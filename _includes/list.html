@@ -11,7 +11,7 @@
   | reverse
 %}
 
-
+{% img = images/thumbnails/d.title %}
 
 {% for year in years %}
   {% assign data = year.items %}
@@ -37,7 +37,7 @@
       height=d.height
       icon=d.icon
       id=d.id
-      image=d.image
+      image=img
       last_modified_at=d.last_modified_at
       link=d.link
       lookup=d.lookup

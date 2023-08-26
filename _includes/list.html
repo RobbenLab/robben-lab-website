@@ -11,7 +11,7 @@
   | reverse
 %}
 
-{% assign img = "images/thumbnails/" + d.title + ".jpg" %}
+{% assign img = ['images/thumbnails/',d.title,'.jpg'].join('') %}
 
 {% for year in years %}
   {% assign data = year.items %}

@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Lab Publications
 
 Publications by members of the Robben Lab focus on new omics technologies including single cell RNA-seq and spatial transcriptomics in different aspects of animal and human biology research, including cancer immunology and autoimmune disease. Publications are a mix of preprint/in-submission, journal articles and conference publications.
 

@@ -1,10 +1,10 @@
 
 ##Preprints
 
-- id: https://doi.org/10.1101/2023.07.21.550036
+- id: https://doi.org/10.1101/2023.07.21.550036 #NOD mouse 
   type: preprint
 
-- id:  https://doi.org/10.1101/2023.07.18.549532
+- id:  https://doi.org/10.1101/2023.07.18.549532 #Beetle sperm
   type: preprint
 
 # Highlight
@@ -13,16 +13,16 @@
 
 ####Conference papers
 
-- id: arXiv:2205.10373
+- id: arXiv:2205.10373 #SSIM
   type: paper
 
-- id: arXiv:2306.06780
+- id: arXiv:2306.06780 #H&E
   type: paper
 
-- id: arXiv:2303.13332
+- id: arXiv:2303.13332 #Mohammad paper
   type: paper
 
-- id: arXiv:2307.00635
+- id: arXiv:2307.00635 #Jai paper
   type: paper
 
 

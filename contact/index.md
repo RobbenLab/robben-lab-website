@@ -12,7 +12,7 @@ Please contact our lab for material or data requests or inquiries about collabor
 {%
   include button.html
   type="email"
-  text="email"
+  text="Email"
   link="robben@illinois.edu"
 %}
 {%
@@ -24,9 +24,16 @@ Please contact our lab for material or data requests or inquiries about collabor
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="ERML 211"
+  link="https://www.google.com/maps/place/Edward+R.+Madigan+Labratory/@40.1030506,-88.2243116,17z/data=!3m1!5s0x880cd716fc13fabf:0xcf6a02397531e490!4m6!3m5!1s0x880cd716fc8f7a7d:0x7ad8cd794e3df64d!8m2!3d40.1037837!4d-88.223828!16s%2Fg%2F1hg4qqfd_?entry=ttu"
 %}
+
+Please address any packages to:
+
+Michael Robben
+1201 W Gregory Drive
+212 ERML
+Urbana, IL 61801
 
 {% include section.html %}
 
@@ -34,8 +41,8 @@ Please contact our lab for material or data requests or inquiries about collabor
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Gallery/ERML.jpg"
+  caption="Edward R. Madigan Laboratory"
 %}
 
 {% endcapture %}
@@ -45,7 +52,7 @@ Please contact our lab for material or data requests or inquiries about collabor
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="I-LAMB Laboratory"
 %}
 
 {% endcapture %}

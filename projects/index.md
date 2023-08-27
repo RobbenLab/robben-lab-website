@@ -29,7 +29,7 @@ scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interest
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thumbnails/nodDN.png"
   title="Dysregulation of T-cells in inflammatory diabetes"
   text=text
 %}
@@ -52,7 +52,7 @@ The inclusion of machine learning algorithms in the prediction of nucleic acid a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thumbnails/62277caa7b7ddd67e5c7a0ad_Fig 2.gif"
   title="Machine-learning models for genomics and structural biology"
   text=text
 %}
@@ -75,7 +75,7 @@ Single cell and spatial omics technologies offer a new way to understand the bio
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thumbnails/Emory-Mouse-Liver.jpg"
   title="Computational methods for the analysis of spatial and single-cell sequencing of the tumor microenvironment"
   text=text
 %}

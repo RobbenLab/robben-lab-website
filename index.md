@@ -5,10 +5,7 @@ carousels:
     - image: images/Gallery/ERML.jpg
     - image: images/Gallery/IGB-mainpage.jpg
     - image: images/Gallery/NCSA-petascale-computing-facility-university-of-illinois-new1-copy--2000.jpg
-  - images: 
-    - image: images/Gallery/ERML.jpg
-    - image: images/Gallery/IGB-mainpage.jpg
-    - image: images/Gallery/NCSA-petascale-computing-facility-university-of-illinois-new1-copy--2000.jpg
+    - image: images/Gallery/210714-submitted.png
 
 ---
 
@@ -22,8 +19,6 @@ The goal of the Robben lab is to develop the next generation of multi-omic seque
 
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 {% include section.html %}
 

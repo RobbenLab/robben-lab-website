@@ -30,12 +30,12 @@ Please contact our lab for material or data requests or inquiries about collabor
 
 <p style="text-align: center;">
 
-Please address any packages to:
+{Please address any packages to:
 
 *Michael Robben*\
 *1201 W Gregory Drive*\
 *212 ERML*\
-*Urbana, IL 61801*\
+*Urbana, IL 61801*}
 
 </p>
 

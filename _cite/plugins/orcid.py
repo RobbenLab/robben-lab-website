@@ -99,6 +99,8 @@ def main(entry):
                 source["date"] = format_date(date)
             if link:
                 source["link"] = link
+            if image: 
+                source["image"] = ("images/thumbnails/").join(title.join(".jpg"))
 
         # copy fields from entry to source
         source.update(entry)

@@ -28,7 +28,7 @@ Recently published articles and conference papers by members of the Robben Lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thumbnails/nodDN.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Active projects in the pipeline and links to computational packages developed in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thumbnails/Emory-Mouse-Liver.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -76,7 +76,7 @@ Meet the highly talented individuals that make up the best team for doing interd
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Gallery/ERML.jpg"
   link="team"
   title="Our Team"
   text=text

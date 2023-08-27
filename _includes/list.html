@@ -11,7 +11,7 @@
   | reverse
 %}
 
-{% assign img = d.date[0] %}
+{% assign img = d.authors %}
 
 {% for year in years %}
   {% assign data = year.items %}
@@ -27,11 +27,11 @@
     {%
       include {{ include.component | append: ".html" }}
       author=d.author
-      authors=d.authors
+      authors=img
       buttons=d.buttons
       caption=d.caption
       content=d.content
-      date=img
+      date=d.date
       description=d.description
       excerpt=d.excerpt
       height=d.height

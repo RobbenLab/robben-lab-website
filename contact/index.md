@@ -28,14 +28,14 @@ Please contact our lab for material or data requests or inquiries about collabor
   link="https://www.google.com/maps/place/Edward+R.+Madigan+Labratory/@40.1030506,-88.2243116,17z/data=!3m1!5s0x880cd716fc13fabf:0xcf6a02397531e490!4m6!3m5!1s0x880cd716fc8f7a7d:0x7ad8cd794e3df64d!8m2!3d40.1037837!4d-88.223828!16s%2Fg%2F1hg4qqfd_?entry=ttu"
 %}
 
-<center>
+
 Please address any packages to:
 
 *Michael Robben*\
 *1201 W Gregory Drive*\
 *212 ERML*\
 *Urbana, IL 61801*
-</center>
+
 
 {% include section.html %}
 

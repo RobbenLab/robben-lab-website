@@ -11,7 +11,7 @@
   | reverse
 %}
 
-{% assign img = d.date %}
+{% assign img = d.date | append: ".jpg" %}
 
 {% for year in years %}
   {% assign data = year.items %}
@@ -31,7 +31,7 @@
       buttons=d.buttons
       caption=d.caption
       content=d.content
-      date=d.date | append: ".jpg"
+      date=img
       description=d.description
       excerpt=d.excerpt
       height=d.height

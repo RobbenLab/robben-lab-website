@@ -27,11 +27,11 @@
     {%
       include {{ include.component | append: ".html" }}
       author=d.author
-      authors=img
+      authors=d.authors
       buttons=d.buttons
       caption=d.caption
       content=d.content
-      date=d.date
+      date=d.date | append: ".jpg"
       description=d.description
       excerpt=d.excerpt
       height=d.height

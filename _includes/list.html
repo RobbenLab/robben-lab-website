@@ -11,7 +11,7 @@
   | reverse
 %}
 
-{% assign img = d.authors %}
+{% assign img = "images/Gallery/ERML.jpg" %}
 
 {% for year in years %}
   {% assign data = year.items %}
@@ -37,7 +37,7 @@
       height=d.height
       icon=d.icon
       id=d.id
-      image="images/Gallery/ERML.jpg"
+      image=img
       last_modified_at=d.last_modified_at
       link=d.link
       lookup=d.lookup

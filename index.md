@@ -1,4 +1,15 @@
 ---
+
+carousels:
+  - images: 
+    - image: images/Gallery/ERML.jpg
+    - image: images/Gallery/IGB-mainpage.jpg
+    - image: images/Gallery/NCSA-petascale-computing-facility-university-of-illinois-new1-copy--2000.jpg
+  - images: 
+    - image: images/Gallery/ERML.jpg
+    - image: images/Gallery/IGB-mainpage.jpg
+    - image: images/Gallery/NCSA-petascale-computing-facility-university-of-illinois-new1-copy--2000.jpg
+
 ---
 
 # I-LAMB (Illinois Laboratory for Animal Machine-learning and Bioinformatics)
@@ -6,6 +17,13 @@
 The goal of the Robben lab is to develop the next generation of multi-omic sequencing technologies to investigate immune cell dysfunction in cancer and autoimmune disease. The future of high-throughput sequencing combines transcriptomics, proteomics, genomics and imaging into techniques like single cell RNA-seq and spatial transcriptomics. For the analysis of this data we need new computational methods utilizing machine learning algorithms that can identify patterns of cell interactions and differentiation.  
 ---  
 **Currently looking for highly self-motivated graduate and undergraduate students who want interdisciplinary research experience! See the "Join Us" tab for more details.**
+
+{% include section.html %}
+
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 {% include section.html %}
 

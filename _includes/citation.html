@@ -5,7 +5,7 @@
   | default: include
 %}
 
-{% assign img = "images/Gallery/ERML.jpg" %}
+{% assign img = "images/thumbnails/" | append: citation.title | append: ".jpg" %}
 
 <div class="citation">
   {% if include.style == "rich" %}

@@ -1,6 +1,6 @@
 ---
 name: Michael Robben
-image: images/photo.jpg
+image: images/Members/RobbenM.jpg
 role: pi
 # aliases:
 #   - M. Robben

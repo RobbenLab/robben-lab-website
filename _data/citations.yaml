@@ -1,5 +1,81 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21203/rs.3.rs-3794984/v1
+  title: Single-cell RNA-seq reveals TCR clonal expansion and a high frequency of
+    transcriptionally distinct double-negative T cells in NOD mice
+  authors:
+  - Michael Robben
+  - Md ZOhorul Islam
+  - Sam Zimmerman
+  - Jon Weidanz
+  - Jose Ordovas-Montanes
+  - Aleksandar Kostic
+  - Jacob Luber
+  publisher: Research Square Platform LLC
+  date: '2024-01-16'
+  link: https://doi.org/gtfdr6
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.139210.1
+  title: The state of applying artificial intelligence to tissue imaging for cancer
+    research and early detection
+  authors:
+  - Michael Robben
+  - Amir Hajighasemi
+  - Mohammad Sadegh Nasr
+  - Jai Prakesh Veerla
+  - Anne Marie Alsup
+  - Biraaj Rout
+  - Helen H. Shang
+  - Kelli Fowlds
+  - Parisa Boodaghi Malidarreh
+  - Paul Koomey
+  - Jillur Rahman Saurav
+  - Jacob M. Luber
+  publisher: F1000Research
+  date: '2023-11-06'
+  link: https://doi.org/gs5d9j
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cibcb56990.2023.10264899
+  title: A SSIM Guided cGAN Architecture For Clinically Driven Generative Image Synthesis
+    of Multiplexed Spatial Proteomics Channels
+  authors:
+  - Jillur Rahman Saurav
+  - Mohammad Sadegh Nasr
+  - Helen H Shang
+  - Paul Koomey
+  - Michael Robben
+  - Manfred Huber
+  - Jon Weidanz
+  - "Br\xEDd Ryan"
+  - Eytan Ruppin
+  - Peng Jiang
+  - Jacob M. Luber
+  publisher: 2023 IEEE Conference on Computational Intelligence in Bioinformatics
+    and Computational Biology (CIBCB)
+  date: '2023-08-29'
+  link: https://doi.org/gsv2k7
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.18.549532
+  title: scRNA-seq reveals novel genetic pathways and sex chromosome regulation in<i>Tribolium</i>spermatogenesis
+  authors:
+  - Michael Robben
+  - Balan Ramesh
+  - Shana Pau
+  - Demetra Meletis
+  - Jacob Luber
+  - Jeffery Demuth
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-18'
+  link: https://doi.org/gsttvv
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1089/cmb.2022.0370
   title: Comparison of the Strengths and Weaknesses of Machine Learning Algorithms
     and Feature Selection on KEGG Database Microbial Gene Pathway Annotation and Its
@@ -16,6 +92,25 @@
   publisher: Journal of Computational Biology
   date: '2023-07-01'
   link: https://doi.org/gsmzrd
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isbi53787.2023.10230343
+  title: Clinically Relevant Latent Space Embedding of Cancer Histopathology Slides
+    Through Variational Autoencoder based Image Compression
+  authors:
+  - Mohammad Sadegh Nasr
+  - Amir Hajighasemi
+  - Paul Koomey
+  - Parisa Boodaghi Malidarreh
+  - Michael Robben
+  - Jillur Rahman Saurav
+  - Helen H Shang
+  - Manfred Huber
+  - Jacob M. Luber
+  publisher: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+  date: '2023-04-18'
+  link: https://doi.org/gsv2k8
   orcid: 0000-0002-5322-9947
   plugin: orcid.py
   file: orcid.yaml
@@ -117,7 +212,7 @@
   - Peng Jiang
   - Jacob M. Luber
   publisher: arXiv
-  date: '2023-06-13'
+  date: '2024-01-08'
   link: https://arxiv.org/abs/2205.10373
   type: paper
   plugin: sources.py
@@ -155,7 +250,7 @@
   - Manfred Huber
   - Jacob M. Luber
   publisher: arXiv
-  date: '2023-03-24'
+  date: '2024-01-08'
   link: https://arxiv.org/abs/2303.13332
   type: paper
   plugin: sources.py

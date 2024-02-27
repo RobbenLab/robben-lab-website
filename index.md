@@ -13,7 +13,7 @@ carousels:
 
 The goal of the Robben lab is to develop the next generation of multi-omic sequencing technologies to investigate immune cell dysfunction in cancer and autoimmune disease using animal models. The future of high-throughput sequencing combines transcriptomics, proteomics, genomics and imaging into techniques like single cell RNA-seq and spatial transcriptomics. For the analysis of this data we need new computational methods utilizing machine learning algorithms that can identify patterns of cell interactions and differentiation.  
 ---  
-**Currently looking for highly self-motivated graduate and undergraduate students who want interdisciplinary research experience! See the "Join Us" tab for more details.**
+<!---**Currently looking for highly self-motivated graduate and undergraduate students who want interdisciplinary research experience! See the "Join Us" tab for more details.** --->
 
 {% include section.html %}
 

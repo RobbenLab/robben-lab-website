@@ -32,7 +32,6 @@ Type-1 Diabetes is an inflammatory autoimmune disease that develops during child
   image="images/thumbnails/NODdisc.png"
   title="Dysregulation of T-cells in inflammatory diabetes"
   text=text
-  width=800
 %}
 
 {% include section.html %}

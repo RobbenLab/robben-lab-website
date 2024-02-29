@@ -9,17 +9,7 @@ The I-LAMB lab at Illinois is focused on interdisciplinary research which means 
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Open Positions
 
-The Robben lab is always looking for Ph.D., Masters, and undergraduates. Please inquire emailing Dr. Robben with your CV and interests in research. 
-
-<!---
-## Ph.D. Student Molecular Biology
-
-## Ph.D. Student Bioinformatics
-
-## Ph.D. Student Computer science
-
-## Masters and Undergraduate students 
---->
+The Robben lab is always looking for Ph.D., Masters, and undergraduates. Please inquire by emailing Dr. Robben with your CV and interests in research. 
 
 {% include search-info.html %}
 

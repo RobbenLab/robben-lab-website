@@ -32,6 +32,7 @@ Type-1 Diabetes is an inflammatory autoimmune disease that develops during child
   image="images/thumbnails/NODdisc.png"
   title="Dysregulation of T-cells in inflammatory diabetes"
   text=text
+  width=800
 %}
 
 {% include section.html %}
@@ -52,7 +53,7 @@ Racial and genetic bias towards the development of cancer is a major factor that
 
 {%
   include feature.html
-  image="cancerimage.png"
+  image="images/thumbnails/cancerimage.png"
   title="Exploring environmental effects on cancer progression through international sequencing data"
   text=text
 %}

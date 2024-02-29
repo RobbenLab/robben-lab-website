@@ -17,7 +17,7 @@ nav:
 
 {% capture text %}
 
-scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interesting indicators of T-cell dysregulation associated with development of the disease. This included suppression of cytotoxic CD8+ T-cells on infiltration into the pancreas associated with specific TCR clones, and the remarkeable increased rate of Double Negative (DN) T-cells among circulating and infiltrating T lymphocytes. The objective or our research is two fold 1. Develop molecular and computational tools to identify epitopes for suppressed and unsuppressed cytotoxic T-cells and 2. Determine the mechanism of action for the development of circulating DN T-cells and their effect on disease progression.  
+Type-1 Diabetes is an inflammatory autoimmune disease that develops during childhood where immune dysregulation leads to Beta-cell destruction and a loss of the bodies ability to regulate insulin production. This disease affects millions worldwide and is curiosly more common in highly modernized western countries. To explore this disease we previously conducted single cell RNA-seq and TCR-seq in the translation NOD mouse model and found interesting results concerning T-cell regulation. Most strikingly, Double Negative (DN) T-cells, represent ~1/3 of active effector T-cell populations and recieve increased signaling for exhaustion in diabetic mice. On top of this, a population of clonal specific CD8+ T-cells show abnormal exhaustion regulation from other CD8+ T-cells in the diabetic mouse, where apparently exhausted cytotoxic T-cells will leave the pancreas and resume expression of granzymes and perforin. Our lab is engaged in further research to 1) Identify the origin of DN T-cells in the NOD mouse and it's role in pathogenesis 2) Identify the targets of misregulated TCR sequences and 3) Observe the spatial dynamics of T-cell interaction within the pancreas. 
 
 {%
   include button.html
@@ -29,7 +29,7 @@ scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interest
 
 {%
   include feature.html
-  image="images/thumbnails/nodDN.png"
+  image="images/thumbnails/NODdisc.png"
   title="Dysregulation of T-cells in inflammatory diabetes"
   text=text
 %}
@@ -40,7 +40,7 @@ scRNA-seq analysis of T-cells extracted from diabetic NOD mice revealed interest
 
 {% capture text %}
 
-The inclusion of machine learning algorithms in the prediction of nucleic acid and protein biology holds great promise for groundbreaking discovery. Our goal is to build the foundation for the use of these tools in genomic research. We previously demonstrated that machine learning algorithms can benefit annotation of microbial genes to discover previously undiscovered pathways. Our goal is to develop better algorithms that can aid genomic researchers in gene discovery. The use of machine learning to replace wet lab experiments or generate more data than wet lab experiments is also a topic of great interest. New structural biology algorithms such as alphafold present the opportunity to predict protein-protein interactions in-silico. Developing these algorithms to be faster and more efficient will allow us to evaluate millions of potential interactions more efficiently than can be done with Y2H or PPI experiments. These faster screening algorithms can then be applied to discovering antigen specific antibodies in-silico which can be used for discovery of new immunotherapuetics.
+Racial and genetic bias towards the development of cancer is a major factor that disproportionally impacts at-risk populations in this country. Black American populations are at higher risk of developing and dying from prostate and colorectal cancer, while Asian American populations are the only which have seen increases in breast cancer mortality in the last decade. Interestingly, native populations of genetically similar ethnic groups do not experience the same incidence or mortality of disease with their genetic matches in the US. This perplexing nature of unequal bias in cancer development has gone long unresearched by the wider scientific community due to geographical barriers in patient groups, but has become more possible now thanks to the wide abundance of publically available sequencing data. Using this data, we can conduct international investigation into patients suffering from similar cancer and observe how the combined effect of genotype and environment result in the different pathology among individuals. Through this research we hope to identify biomarkers or risk factors unique to individual ethnic groups to improve health equity and cancer survival. 
 
 {%
   include button.html
@@ -52,8 +52,8 @@ The inclusion of machine learning algorithms in the prediction of nucleic acid a
 
 {%
   include feature.html
-  image="images/thumbnails/62277caa7b7ddd67e5c7a0ad_Fig 2.gif"
-  title="Machine-learning models for genomics and structural biology"
+  image="cancerimage.png"
+  title="Exploring environmental effects on cancer progression through international sequencing data"
   text=text
 %}
 

@@ -53,7 +53,7 @@ Please address any packages to:
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Gallery/Lab_finished.jpg"
   caption="I-LAMB Laboratory"
 %}
 

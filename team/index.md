@@ -26,7 +26,7 @@ The Illinois Laboratory for Animal Machine-learning and Bioinformatics is an int
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Gallery/labgroup1crop.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 

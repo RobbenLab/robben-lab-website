@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/gbe/evae059
+  title: scRNA-seq Reveals Novel Genetic Pathways and Sex Chromosome Regulation in
+    <i>Tribolium</i> Spermatogenesis
+  authors:
+  - Michael Robben
+  - Balan Ramesh
+  - Shana Pau
+  - Demetra Meletis
+  - Jacob Luber
+  - Jeffery Demuth
+  publisher: Genome Biology and Evolution
+  date: '2024-03-01'
+  link: https://doi.org/gtwmcd
+  orcid: 0000-0002-5322-9947
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-3794984/v1
   title: Single-cell RNA-seq reveals TCR clonal expansion and a high frequency of
     transcriptionally distinct double-negative T cells in NOD mice
@@ -58,21 +74,6 @@
     and Computational Biology (CIBCB)
   date: '2023-08-29'
   link: https://doi.org/gsv2k7
-  orcid: 0000-0002-5322-9947
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.07.18.549532
-  title: scRNA-seq reveals novel genetic pathways and sex chromosome regulation in<i>Tribolium</i>spermatogenesis
-  authors:
-  - Michael Robben
-  - Balan Ramesh
-  - Shana Pau
-  - Demetra Meletis
-  - Jacob Luber
-  - Jeffery Demuth
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-07-18'
-  link: https://doi.org/gsttvv
   orcid: 0000-0002-5322-9947
   plugin: orcid.py
   file: orcid.yaml

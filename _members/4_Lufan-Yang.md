@@ -9,7 +9,7 @@ links:
   website: 
   orcid: https://orcid.org/0000-0002-3036-1654
   email: lufany2@illinois.edu
-  linkedin: https://www.linkedin.com/in/lufan-yang-5a9752248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  linkedin: www.linkedin.com/in/lufan-yang-5a9752248
 group: current
 ---
 

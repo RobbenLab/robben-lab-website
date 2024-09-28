@@ -5,9 +5,7 @@ role: phd
 # aliases:
 #   - 
 links:
-  home-page: 
-  website: 
-  orcid: https://orcid.org/0000-0002-3036-1654
+  orcid: 0000-0002-3036-1654
   email: lufany2@illinois.edu
   linkedin: www.linkedin.com/in/lufan-yang-5a9752248
 group: current

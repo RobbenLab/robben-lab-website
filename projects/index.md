@@ -17,7 +17,9 @@ nav:
 
 {% capture text %}
 
-Type-1 Diabetes is an inflammatory autoimmune disease that develops during childhood where immune dysregulation leads to Beta-cell destruction and a loss of the bodies ability to regulate insulin production. This disease affects millions worldwide and is curiosly more common in highly modernized western countries. To explore this disease we previously conducted single cell RNA-seq and TCR-seq in the translation NOD mouse model and found interesting results concerning T-cell regulation. Most strikingly, Double Negative (DN) T-cells, represent ~1/3 of active effector T-cell populations and recieve increased signaling for exhaustion in diabetic mice. On top of this, a population of clonal specific CD8+ T-cells show abnormal exhaustion regulation from other CD8+ T-cells in the diabetic mouse, where apparently exhausted cytotoxic T-cells will leave the pancreas and resume expression of granzymes and perforin. Our lab is engaged in further research to 1) Identify the origin of DN T-cells in the NOD mouse and it's role in pathogenesis 2) Identify the targets of misregulated TCR sequences and 3) Observe the spatial dynamics of T-cell interaction within the pancreas. 
+Type-1 Diabetes is an inflammatory autoimmune disease that develops during childhood where immune dysregulation leads to Beta-cell destruction and a loss of the bodies ability to regulate insulin production. This disease affects millions worldwide and is curiosly more common in highly modernized western countries. One of the most well known examples of this is the 6x greater risk of disease in finnish juveniles compared to russian juveniles. Currently, this is difficult to study due to high heterogenity in human populations. Our lab aims to develop both computational and in-vivo mouse models to better understand how environmental factors affect disease development. 
+
+We have recently published one of the first single cell RNA-seq studies in the translational NOD mouse model and found 1) High proportions of Double Negative T cells 2) Clonal specific LAG3+ CD8+ T cells and 3) Immune metabolic dysregulation of pancreatic infiltrating T cells. To investigate these results further, our lab combines novel sequencing methods and in-vitro experimentation. 
 
 {%
   include button.html
@@ -30,7 +32,7 @@ Type-1 Diabetes is an inflammatory autoimmune disease that develops during child
 {%
   include feature.html
   image="images/thumbnails/NODdisc.png"
-  title="Dysregulation of T-cells in inflammatory diabetes"
+  title="Environmental effects and dysregulation of T-cells in inflammatory diabetes"
   text=text
 %}
 

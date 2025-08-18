@@ -194,16 +194,16 @@
   - Jose Ordovas-Montanes
   - Michael Robben
   - Jacob M. Luber
-  - Aleksandar D. Kostic
-  publisher: bioRxiv
+  - Aleksandar D Kostic
+  publisher: Immunology
   date: '2023-07-25'
-  link: https://www.biorxiv.org/content/10.1101/2023.07.21.550036v1
+  link: http://biorxiv.org/lookup/doi/10.1101/2023.07.21.550036
   type: preprint
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1101/2023.07.18.549532
   title: scRNA-seq reveals novel genetic pathways and sex chromosome regulation in
-    Tribolium spermatogenesis
+    <i>Tribolium</i> spermatogenesis
   authors:
   - Michael Robben
   - Balan Ramesh
@@ -211,9 +211,9 @@
   - Demetra Meletis
   - Jacob Luber
   - Jeffery Demuth
-  publisher: bioRxiv
+  publisher: Molecular Biology
   date: '2023-07-18'
-  link: https://www.biorxiv.org/content/10.1101/2023.07.18.549532v1
+  link: http://biorxiv.org/lookup/doi/10.1101/2023.07.18.549532
   type: preprint
   plugin: sources.py
   file: sources.yaml
@@ -227,7 +227,7 @@
   - Michael Robben
   - Manfred Huber
   - Jon Weidanz
-  - "Br\xEDd Ryan"
+  - "Br\xC3\xADd Ryan"
   - Eytan Ruppin
   - Peng Jiang
   - Jacob M. Luber
